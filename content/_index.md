@@ -7,15 +7,15 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: Kostadinov Lab
       image:
-        filename: welcome.jpg
+        filename: PCdendrites_DK169.png
       text: |
+        ## Centre for Developmental Neurobiology
+        ## King's College London        
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We study the roles of the cerebellum in brain-wide computations and behaviour.
   
   - block: collection
     content:

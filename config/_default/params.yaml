@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
+  font: Helvetica Neue, Helvetica, Arial, sans-serif
   font_size: L
 
 # SEO
@@ -38,8 +38,9 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: False
+    highlight_active_link: True
+
 
 # Site footer
 
