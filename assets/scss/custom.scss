@@ -1,16 +1,123 @@
+// Font defaults for all sections
+.navbar, .article-title, body, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+}
+// Nav bar background color
 .navbar {
   background-color: #E6E2DC !important;
 }
-
-// .navbar {
-//   background-color: #D1CBC3 !important;  
-// }
-
-.navbar, body, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+// Font sizes for various sections
+body { 
+  font-size: 0.85em; // All main text sections
+}
+.hero-title {
+  font-size: 2rem;  // the main "Kostadinov Lab" title
+}
+.hero-lead {
+  font-size: 0.85rem;  // the body text below
+}
+.hero-lead h2 {
+  font-size: 1.2rem;  // your ## headers (Centre for Developmental Neurobiology, etc.)
 }
 
 .hero-lead h2 {
   margin-bottom: 0 !important;
   line-height: .8 !important;
+}
+
+.people-widget .avatar {
+  width: 100%;
+  max-width: 225px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+@media (min-width: 576px) {
+  .people-person {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+  }
+}
+
+.people-person {
+  margin-bottom: 2rem;
+}
+
+@font-face {
+  font-family: "Font Awesome 6 Brands";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.woff2") format("woff2");
+}
+
+.fa-bluesky:before {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+  content: "\e671";
+}
+
+.landing-hero p,
+.landing-hero .hero-lead,
+.landing-hero .hero-content {
+  text-align: justify;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.contact-text {
+  font-size: 1rem;
+}
+
+.contact-map iframe {
+  width: 100%;
+  border-radius: 6px;
+}
+
+/* mobile responsiveness */
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.img-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.img-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.article-card img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  width: 100%;
+}
+
+.article-banner,
+.article-media,
+.article-image {
+  aspect-ratio: 1 / 1;
+  background-size: cover;
+  background-position: center;
+}
+
+.ml-3 img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
 }
