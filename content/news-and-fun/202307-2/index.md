@@ -1,6 +1,6 @@
 ---
 title: Equipment begins arriving
-date: 2023-07-31
+date: 2023-07-26
 image:
   filename: featured.jpg
   preview_only: true

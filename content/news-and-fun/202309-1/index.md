@@ -1,19 +1,19 @@
 ---
-title: Equipment begins arriving
-date: 2023-07-31
+title: Microscope build
+date: 2023-09-06
 image:
-  filename: featured.jpg
+  # filename: featured.jpg
   preview_only: true
-summary: "Air table and lasers are delivered and installed!"
+summary: "Dimitar and Dale ([Cosys, Ltd.](https://www.cosys.org.uk/)) build the lab’s first 2-photon microscope."
 ---
 
-Air table and lasers are delivered and installed!
+Dimitar and Dale ([Cosys, Ltd.](https://www.cosys.org.uk/)) build the lab’s first 2-photon microscope.
 
 <div class="img-grid">
 
-<img src="202307-2-airtable1.jpg" />
-<img src="202307-2-airtable2.jpg" />
 <img src="featured.jpg" />
+<img src="202309-1-scope.jpg" />
+<img src="202309-1-image.jpg" />
 <!-- <img src="/images/retreat3.jpg" /> -->
 
 </div>

@@ -121,3 +121,12 @@ body {
   object-fit: cover;
   display: block;
 }
+
+.img-grid {
+  margin-bottom: 0;
+}
+
+.img-grid img {
+  display: block;
+  margin: 0;
+}
