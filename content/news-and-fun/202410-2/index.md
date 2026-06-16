@@ -1,13 +1,13 @@
 ---
-title: Dimitar, Carolina, Ren, and Subham attend SfN in Chicago
+title: The lab attends SfN in Chicago
 date: 2024-10-05
 image:
   filename: featured.jpg
   preview_only: true
-summary: "Dimitar gives a talk at the **Cerebellar Predictive Encoding in Health and Disease** [Minisymposium](https://www.abstractsonline.com/pp8/#!/20433/session/97)."
+summary: "Dimitar gave a talk at the **Cerebellar Predictive Encoding in Health and Disease** [Minisymposium](https://www.abstractsonline.com/pp8/#!/20433/session/97)."
 ---
 
-Dimitar gives a talk at the **Cerebellar Predictive Encoding in Health and Disease** [Minisymposium](https://www.abstractsonline.com/pp8/#!/20433/session/97).
+Dimitar gave a talk at the **Cerebellar Predictive Encoding in Health and Disease** [Minisymposium](https://www.abstractsonline.com/pp8/#!/20433/session/97).
 
 
 <img src="featured.jpg"

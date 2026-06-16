@@ -130,3 +130,20 @@ body {
   display: block;
   margin: 0;
 }
+
+.pub-abstract {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+video {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  width: 100%;
+  display: block;
+}
+
+.justified-text {
+  text-align: justify;
+  text-justify: inter-word;
+}

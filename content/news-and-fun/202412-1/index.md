@@ -4,12 +4,17 @@ date: 2024-12-13
 image:
   filename: featured.png
   preview_only: true
-summary: " "
-# summary: "Ren official doubles the size of the lab."
+summary: "Myths and stories of our **Hercules**-themed skit will be passed down through generations."
 ---
 
-<!-- Ren official doubles the size of the lab. -->
+Myths and stories of our **Hercules**-themed skit will be passed down through generations.
 
-<img src="featured.png" />
+<div class="img-grid">
+
+<img src="featured.jpg" />
+<img src="202412-1-xmas1.jpg" />
+<img src="202412-1-xmas2.jpg" />
+
+</div>
 
 <!--more-->
