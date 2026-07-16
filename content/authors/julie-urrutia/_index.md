@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julie Urrutia-Desmaison
+title: Julie Urrutia
 
 # Full Name (for SEO)
 first_name: Julie
@@ -23,10 +23,11 @@ role: "**Postdoctoral Scholar**"
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Latent dynamics
-#   - Holographic photostimulation
-#   - Brain-computer interfaces
+interests:
+  - Associative emotional learning
+  - Behavioural state monitoring
+  - In vivo imaging
+  - Electrophysiology
 
 education:
   courses:
@@ -36,8 +37,8 @@ education:
     - course: MSc, Neurobiology
       institution: Ecole Normale Superieure, France
       year: 2021
-    - course: Medical Degree
-      institution: Charite University Medicine, Germany
+    - course: MD
+      institution: Charité – Universitätsmedizin Berlin, Germany
       year: 2020
 
 # Social/Academic Networking
@@ -76,6 +77,6 @@ user_groups:
   - Current members
 ---
 
-<!-- Subham received his BSc in Neuroscience from King’s College London and an MRes in Brain Sciences from UCL, where he built a thick-tissue multiplexed in-situ hybridization protocol in Yoh Isogai’s lab at the Sainsbury Wellcome Centre. He joined the Kostadinov lab in 2024 through the MRC-ITND PhD program. Subham’s project focuses on the cerebellum’s role in shaping neural dynamics in the neocortex during reaching behaviour.
+Julie received her MD from Charité – Universitätsmedizin Berlin in 2020 and her MSc in Neuroscience from the École Normale Supérieure in Paris in 2021, where she completed her PhD in the laboratory of Clément Léna and Daniela Popa in 2025. Her doctoral research focused on the involvement of the cerebellum in emotional learning. Julie joined the Kostadinov Lab in 2026, where she investigates how cerebellar circuits contribute to behavioural learning and adaptation.
 
-**Personal interests:** Bouldering, hiking, reading sci-fi, drinking Guinness and ruminating the concept of fighting a black bear -->
+**Personal interests:** Exploring nature, climbing, visiting modern and classical art exhibitions, thrift shopping

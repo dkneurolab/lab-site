@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Carolina Soares
+title: Derin Colak
 
 # Full Name (for SEO)
-first_name: Carolina
-last_name: Soares
+first_name: Derin
+last_name: Colak
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: "**PhD Student**"
+role: "**MSc Student**"
 
 # # Organizations/Affiliations
 # organizations:
@@ -21,21 +21,19 @@ role: "**PhD Student**"
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Latent dynamics
-  - Holographic photostimulation
-  - Brain-computer interfaces
+  - Psychopathology
+  - Neuroplasticity
+  - Mind-body interaction
+  - Addiction
 
 education:
   courses:
-    - course: PhD Student, LIDo PhD Program
+    - course: MSc, Psychology and Neuroscience of Mind-Body Interface
       institution: King's College London, UK
-      year: 2023-
-    - course: MRes, Integrative Neuroscience
-      institution: University of Edinburgh, UK
-      year: 2022
-    - course: BSc, Biochemistry
-      institution: Queen Mary Univeristy, UK
-      year: 2021
+      year: 2025-
+    - course: BSc, Psychology
+      institution: University of Sussex, UK
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,12 +46,12 @@ social:
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?user=NsCv6eAAAAAJ&hl
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/carolinafsoares
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/carolina-soares.bsky.social
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/carolinafsoares
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://bsky.app/profile/carolina-soares.bsky.social
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # - icon: cv
@@ -73,6 +71,6 @@ user_groups:
   - Current members
 ---
 
-Carolina received a BSc in Biochemistry from Queen Mary University of London in 2021 and an MRes in Integrative Neuroscience from the University of Edinburgh in 2022. She then worked in Sonja Hofer’s lab at the Sainsbury Wellcome Centre as a research technician investigating decision-making in the IBL task. She joined the Kostadinov lab through the LIDo PhD program in 2024 and is researching cerebellar contributions to basal ganglia dynamics and value-guided behaviour.
+Derin received her BSc in Psychology from the University of Sussex in 2023. Her undergraduate thesis critically examined the validity of the Synchrony Judgment task as a measure of temporal binding windows. She is currently completing an MSc, where her research project investigates the role of cerebellar neuromodulation in reward behaviour.
 
-**Personal interests:** Carolina is a science communicator and hosts a neuroscience podcast, Neuroverse, to engage audiences in science and philosophy.
+**Personal interests:** Reading fantasy, cooking, nature, listening to Turkish rock
