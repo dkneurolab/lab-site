@@ -205,7 +205,8 @@ video {
   .gallery-caption {
     font-size: 1.3rem;
     font-weight: 700;
-    margin-bottom: 2px; // tighter gap between caption and image
+    margin-bottom: 6px; // tighter gap between caption and image
+    line-height: 1.15; // adjust this
   }
   .gallery-credit-left {
     max-width: 80%;
@@ -219,4 +220,9 @@ video {
       text-decoration: underline;
     }
   }
+  video {
+    object-fit: contain;
+    max-height: 500px; // adjust to taste — prevents very tall/long videos from dominating the layout
+  }
 }
+

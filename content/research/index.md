@@ -54,7 +54,32 @@ sections:
             <p class="text-center  gallery-caption"><strong>Quantitative behavioural tasks</strong></p>
             <img src="/media/bandit_behav.png" alt="Item One" class="img-fluid rounded mb-2">
             <p class="gallery-credit-left">
-              Image credit: <a href="/author/carolina-soares/">Carolina Soares</a>
+              Training by <a href="/author/carolina-soares/">Carolina Soares</a>
+            </p>
+          </div>
+
+          <div class="col-md-6 mb-4">
+            <p class="text-center  gallery-caption"><strong>Neuropixels probe recording in motor cortex</strong></p>
+            <video autoplay muted loop playsinline controls class="img-fluid rounded mb-2" style="width: 100%;">
+              <source src="/media/mCtx_npix.mp4" type="video/mp4">
+            </video>
+            <p class="gallery-credit-left">
+              Recording by <a href="/author/subham-ganguly/">Subham Ganguly</a>
+            </p>
+          </div>
+
+          <div class="col-md-6 mb-4">
+            <p class="text-center  gallery-caption"><strong>Dual-path two-photon imaging and holographic photostimulation microscope</strong></p>
+            <img src="/media/Photostim scope design.png" alt="Item One" class="img-fluid rounded mb-2">
+          </div>
+
+          <div class="col-md-6 mb-4">
+            <p class="text-center  gallery-caption"><strong>Microzone-specific holographic photostimulation</strong></p>
+            <video autoplay muted loop playsinline controls class="img-fluid rounded mb-2" style="width: 100%;">
+              <source src="/media/image51.mp4" type="video/mp4">
+            </video>
+            <p class="gallery-credit-left">
+              Recording by <a href="/author/subham-ganguly/">Subham Ganguly</a>
             </p>
           </div>
 
@@ -62,32 +87,16 @@ sections:
             <p class="text-center  gallery-caption"><strong>Purkinje cell dendritic spines</strong></p>
             <img src="/media/ren-spines.png" alt="Item One" class="img-fluid rounded mb-2">
             <p class="gallery-credit-left">
-              Image credit: <a href="/author/ceren-arslan/">Ceren Arslan</a>
+              Image taken by <a href="/author/ceren-arslan/">Ceren Arslan</a>
             </p>
           </div>
 
           <div class="col-md-6 mb-4">
-            <img src="/media/gallery/item3.jpg" alt="Item Three" class="img-fluid rounded mb-2">
-            <p class="text-center"><strong>Item Three Title</strong></p>
-          </div>
-
-          <div class="col-md-6 mb-4">
-            <video controls class="img-fluid rounded mb-2" style="width: 100%;">
-              <source src="/media/gallery/item4.mp4" type="video/mp4">
-            </video>
-            <p class="text-center"><strong>Item Four Title</strong></p>
-          </div>
-
-          <div class="col-md-6 mb-4">
-            <img src="/media/gallery/item5.jpg" alt="Item Five" class="img-fluid rounded mb-2">
-            <p class="text-center"><strong>Item Five Title</strong></p>
-          </div>
-
-          <div class="col-md-6 mb-4">
-            <video controls class="img-fluid rounded mb-2" style="width: 100%;">
-              <source src="/media/gallery/item6.mp4" type="video/mp4">
-            </video>
-            <p class="text-center"><strong>Item Six Title</strong></p>
+            <p class="text-center  gallery-caption"><strong>Computational modeling</strong></p>
+            <img src="/media/GLM_schematic.png" alt="Item One" class="img-fluid rounded mb-2">
+            <p class="gallery-credit-left">
+              Image taken by <a href="/author/ceren-arslan/">Ceren Arslan</a>
+            </p>
           </div>
 
         </div>
