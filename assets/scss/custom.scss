@@ -147,3 +147,76 @@ video {
   text-align: justify;
   text-justify: inter-word;
 }
+
+.title-banner {
+  &.title-banner .hero-lead {
+    color: #ffffff !important;
+  }
+}
+
+.title-banner {
+  background-image: url('/media/PCdendrites_DK169_v2.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: #afffff;
+
+  .hero-title,
+  .hero-lead h2 {
+    text-align: center;
+    color: #E6E2DC;
+  }
+
+  .hero-lead {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.intro-text {
+  .col-12 {
+    text-align: justify;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    // hyphens: auto;
+  }
+}
+
+.projects-section {
+  h4, p {
+    text-align: justify;
+    // hyphens: auto;
+  }
+}
+
+.gallery-section {
+  .row {
+    .col-md-6 {
+      padding: 20px;
+    }
+  }
+
+  img, video {
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+  }
+  .gallery-caption {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 2px; // tighter gap between caption and image
+  }
+  .gallery-credit-left {
+    max-width: 80%;
+    margin: 4px auto 0 auto; // keeps it centered as a block, but left-aligns text within
+    text-align: left;
+    font-size: 0.85rem;
+    color: #888;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+}

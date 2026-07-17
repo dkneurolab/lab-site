@@ -1,5 +1,5 @@
 ---
-title: "Dimitar presents the lab's work at the Johns Hopkins Cerbellar Seminar Series"
+title: "Dimitar presents the lab's work at the Johns Hopkins Cerebellar Seminar Series"
 date: 2025-03-18
 image:
   filename: featured.png

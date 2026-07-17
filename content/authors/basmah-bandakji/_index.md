@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Emily Hallsworth
+title: Basmah Bandakji
 
 # Full Name (for SEO)
-first_name: Emily
-last_name: Hallsworth
-
-# Order:
-order: 2
+first_name: Basmah
+last_name: Bandakji
 
 # Is this the primary user of the site?
 superuser: False
 
+# Order:
+order: 3
+
 # Role/position
-role: "**Research Technician**"
+role: "**MSc Student**"
 
 # # Organizations/Affiliations
 # organizations:
@@ -23,20 +23,20 @@ role: "**Research Technician**"
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Neurodevelopmental disorders
-  - 3D brain modelling
-  - Optogenetics, 
-  - Viral vector circuit mapping
+# interests:
+#   - Psychopathology
+#   - Neuroplasticity
+#   - Mind-body interaction
+#   - Addiction
 
 education:
   courses:
-    - course: MRes, Translational Health Sciences
-      institution: University of Bristol, UK
+    - course: MSc, Psychology and Neuroscience of Mind-Body Interface
+      institution: King's College London, UK
+      year: 2025-
+    - course: BSc, Psychology
+      institution: City University of London
       year: 2025
-    - course: BSc, Neuroscience
-      institution: University of Bristol, UK
-      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,10 +51,10 @@ social:
   #   link: https://scholar.google.com/citations?user=NsCv6eAAAAAJ&hl
   # - icon: linkedin
   #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/subham-ganguly-3a3a8a186/
-  # - icon: github
+  #   link: https://www.linkedin.com/in/carolinafsoares
+  # - icon: twitter
   #   icon_pack: fab
-  #   link: https://github.com/SubhamGA
+  #   link: https://bsky.app/profile/carolina-soares.bsky.social
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # - icon: cv
@@ -74,6 +74,6 @@ user_groups:
   - Current members
 ---
 
-Emily received a BSc in Neuroscience in 2024 and an MSc in Translational Health Sciences in 2025, both from the University of Bristol. During her Master’s, she studied how inputs to interneurons in the prefrontal cortex change across development in Paul Anastasiades’s lab. Emily joined the Kostadinov lab in 2025.
+Derin received her BSc in Psychology from the City University of London in 2025. She is currently completing an MSc, where her research project investigates the role of cerebellar neuromodulation in reward behaviour.
 
-**Personal interests:** Online shopping, pilates, horror films, drinking Aperol spritz
+<!-- **Personal interests:** Reading fantasy, cooking, nature, listening to Turkish rock -->

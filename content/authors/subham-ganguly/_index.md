@@ -9,6 +9,9 @@ last_name: Ganguly
 # Is this the primary user of the site?
 superuser: False
 
+# Order:
+order: 2
+
 # Role/position
 role: "**PhD Student**"
 

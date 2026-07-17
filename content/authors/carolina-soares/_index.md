@@ -9,6 +9,9 @@ last_name: Soares
 # Is this the primary user of the site?
 superuser: False
 
+# Order:
+order: 2
+
 # Role/position
 role: "**PhD Student**"
 
@@ -75,4 +78,4 @@ user_groups:
 
 Carolina received a BSc in Biochemistry from Queen Mary University of London in 2021 and an MRes in Integrative Neuroscience from the University of Edinburgh in 2022. She then worked in Sonja Hofer’s lab at the Sainsbury Wellcome Centre as a research technician investigating decision-making in the IBL task. She joined the Kostadinov lab through the LIDo PhD program in 2024 and is researching cerebellar contributions to basal ganglia dynamics and value-guided behaviour.
 
-**Personal interests:** Carolina is a science communicator and hosts a neuroscience podcast, Neuroverse, to engage audiences in science and philosophy.
+**Personal interests:** Outside the lab, Carolina is a science communicator and hosts a neuroscience podcast, [Neuroverse](https://creators.spotify.com/pod/profile/neuroverse9/), to engage audiences in science and philosophy.

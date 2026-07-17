@@ -9,6 +9,9 @@ last_name: Colak
 # Is this the primary user of the site?
 superuser: False
 
+# Order:
+order: 3
+
 # Role/position
 role: "**MSc Student**"
 

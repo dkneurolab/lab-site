@@ -7,7 +7,7 @@ first_name: Cristiana
 last_name: Iosif
 
 # Order:
-order: 3
+order: 2
 
 # Is this the primary user of the site?
 superuser: False

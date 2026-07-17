@@ -7,28 +7,35 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Kostadinov Lab
-      image:
-        filename: PCdendrites_DK169.png
+      title: "Laboratory for multiregional neural circuits and behaviour"
       text: |
-        ## Centre for Developmental Neurobiology, 
-        ## King's College London
+        ## Centre for Developmental Neurobiology, King's College London
         <br>
-        The execution of most of the brain’s essential functions – such as sensing our world, moving through it, and learning to adapt to its challenges – requires the concerted action of multiple brain regions. We seek to uncover the mechanisms that organize long-range circuits formed between the cerebellum and the forebrain during development, and to define how activity patterns in these multi-regional circuits facilitate the execution of both sensorimotor and cognitive behaviours. Our goal is to create a unified understanding of these seemingly distinct functional roles by defining common principles of multi-regional computations performed by cerebellar circuits and their partners.
-
-        To achieve these goals, we combine molecular, functional, and computational techniques in mice performing complex behavioural tasks. These tools allow us to map the organizational logic of connections between the cerebellum and its partners, uncover shared activity patterns in these long-range circuits, and define causal contributions of the cerebellar activity patterns to computations in partner regions and to behaviour. This work will generate new insights into the cerebellum's diverse roles and provide a rigorous foundation for quantitative, multiscale theories of learning and computation that can be applied throughout the brain.
-        We study the roles of the cerebellum in brain-wide computations and behaviour.
     design:
-      css_class: landing-hero
+      css_class: title-banner
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+
+  - block: markdown
+    content:
+      title: 
+      text: |
+        We seek to understand the organizing principles of long-range circuits formed between the cerebellum and forebrain regions like the neocortex and basal ganglia and to define how activity patterns in these multiregional circuits facilitate the execution of both sensorimotor and cognitive behaviours.
+
+        <div class="mt-4">
+          <img src="/media/multiregional_loops_v2.png" alt="Description" class="img-fluid rounded d-block mx-auto" style="max-width: 800px;">
+        </div>
+    design:
+      css_class: intro-text
       spacing:
         padding: ['50px', '0', '50px', '0']
   
   - block: collection
     content:
-      title: Latest news
+      title: Recent news
       subtitle:
       text:
-      count: 3
+      count: 
       filters:
         author: ''
         category: ''

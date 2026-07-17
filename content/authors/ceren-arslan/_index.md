@@ -7,7 +7,7 @@ first_name: Ceren
 last_name: Arslan
 
 # Order:
-order: 6
+order: 2
 
 # Is this the primary user of the site?
 superuser: False
@@ -46,18 +46,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:dimitar.kostadinov@kcl.ac.uk'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=NsCv6eAAAAAJ&hl
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/subham-ganguly-3a3a8a186/
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/SubhamGA
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ceren-ren-arslan/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ren-arslan
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0005-7198-5462
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # - icon: cv

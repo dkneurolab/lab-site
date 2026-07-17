@@ -30,7 +30,7 @@ education:
   courses:
     - course: BSc, Neuroscience
       institution: King's College London, UK
-      year: 2023-
+      year: 2023-26
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,9 +65,9 @@ highlight_name: False
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current members
+  - Alumni
 ---
 
-Huma is a Neuroscience undergraduate student at King’s. She is working with Carolina to understand cerebellar contributions to basal ganglia dynamics and decision-making.
+Huma worked in the lab as an undergraduate research assistant with Carolina Soares. Her project focused on understanding cerebellar contributions to basal ganglia dynamics and decision-making.
 
-**Personal interests:** Fashion and creative design, travelling, trying new foods, reading books on consciousness and cognition
+<!-- **Personal interests:** Fashion and creative design, travelling, trying new foods, reading books on consciousness and cognition -->

@@ -1,5 +1,5 @@
 ---
-title: Lab Culture
+title: Lab culture
 date: 2025-01-01
 
 type: landing
@@ -7,7 +7,9 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
+      title: |
+        <span id="lab-culture"></span>
+          Lab culture
       text: |
         Throughout my scientific career, I (Dimitar) have experienced a variety of mentorship styles from my formal and informal mentors. In some cases, these have been wonderful experiences that have taught me how to do things well. In other cases, these have been difficult experiences that have taught me the wrong way to do things. I have also supervised students at all levels in the past, and I have often solicited feedback from them about how I can be a more effective mentor. These experiences inform the vision for the way I am running my own laboratory: my aim is to create a research environment where everyone is welcome, where discovery is fun, and where we can all learn and grow together. For a more philosophical description of my thoughts on mentorship and diversity, you can read these exerpts taken from the [teaching and diversity statements](/files/mentorship.pdf) that I submitted when I was applying for faculty positions.
 
