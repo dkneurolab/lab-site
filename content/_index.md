@@ -9,7 +9,7 @@ sections:
     content:
       title: "Laboratory for multiregional neural circuits and behaviour"
       text: |
-        ## Centre for Developmental Neurobiology, King's College London1
+        ## Centre for Developmental Neurobiology, King's College London
         <br>
     design:
       css_class: title-banner
