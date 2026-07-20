@@ -19,7 +19,7 @@ Picture: Cher, Mick Jagger, Rufus, Bill S. Preston Esq., Ted, Janis Joplin, Jimm
 </div>
 
 <p style="margin-top:0.5rem;">
-Janis doing some last minute data analysis, group shot at the photo booth
+Cher doing some last minute data analysis, group shot at the photo booth
 </p>
 
 
