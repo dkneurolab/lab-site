@@ -24,9 +24,10 @@ role: "**PhD Student**"
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Latent dynamics
-  - Holographic photostimulation
-  - Brain-computer interfaces
+  - Decision-making
+  - Internal models
+  - Behavioural learning strategies (supervised vs reinforcement)
+  - Neuropixel recordings. 
 
 education:
   courses:
