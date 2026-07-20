@@ -20,10 +20,10 @@ sections:
     content:
       title: 
       text: |
-        We seek to understand the organizing principles of long-range circuits formed between the cerebellum and forebrain regions like the neocortex and basal ganglia and to define how activity patterns in these multiregional circuits facilitate the execution of both sensorimotor and cognitive behaviours.
+        We seek to understand the organizing principles of long-range circuits formed between the cerebellum and forebrain regions like the neocortex and basal ganglia and to define how activity patterns in these multiregional circuits facilitate the execution of both sensorimotor and cognitive behaviours!
 
         <div class="mt-4">
-          <img src="/media/multiregional_loops_v2.png" alt="Description" class="img-fluid rounded d-block mx-auto" style="max-width: 800px;">
+          <img src="/media/multiregional_loops_v2.png" alt="Description" class="img-fluid rounded d-block mx-auto multiregional-img">
         </div>
     design:
       css_class: intro-text
