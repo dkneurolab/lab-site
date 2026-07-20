@@ -236,5 +236,11 @@ video {
 }
 
 .multiregional-img {
-  max-width: min(80%);
+  max-width: 100%;
+}
+
+@media (min-width: 800px) {
+  .multiregional-img {
+    max-width: 800px;
+  }
 }
