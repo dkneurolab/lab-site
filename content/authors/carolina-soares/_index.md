@@ -26,8 +26,8 @@ role: "**PhD Student**"
 interests:
   - Decision-making
   - Internal models
-  - Behavioural learning strategies (supervised vs reinforcement)
-  - Neuropixel recordings. 
+  - Behavioural learning strategies
+  - Neuropixel probe recordings
 
 education:
   courses:
