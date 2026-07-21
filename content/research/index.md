@@ -94,9 +94,6 @@ sections:
           <div class="col-md-6 mb-4">
             <p class="text-center  gallery-caption"><strong>Computational modeling</strong></p>
             <img src="/media/GLM_schematic.png" alt="Item One" class="img-fluid rounded mb-2">
-            <p class="gallery-credit-left">
-              Image taken by <a href="/author/ceren-arslan/">Ceren Arslan</a>
-            </p>
           </div>
 
         </div>
