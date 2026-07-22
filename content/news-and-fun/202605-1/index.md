@@ -1,5 +1,5 @@
 ---
-title: Julie Urrutia-Desmaison joins the lab as a postdoc
+title: Julie Urrutia joins the lab as a postdoc
 date: 2026-05-05
 image:
   # filename: featured.png
