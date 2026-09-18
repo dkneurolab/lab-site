@@ -13,7 +13,7 @@ superuser: False
 order: 3
 
 # Role/position
-role: "**MSc Student**"
+role: "**MSc Student (2025-26)**"
 
 # # Organizations/Affiliations
 # organizations:
@@ -33,7 +33,7 @@ education:
   courses:
     - course: MSc, Psychology and Neuroscience of Mind-Body Interface
       institution: King's College London, UK
-      year: 2025-
+      year: 2025-26
     - course: BSc, Psychology
       institution: University of Sussex, UK
       year: 2023
@@ -71,7 +71,7 @@ highlight_name: False
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current members
+  - Alumni
 ---
 
 Derin received her BSc in Psychology from the University of Sussex in 2023. Her undergraduate thesis critically examined the validity of the Synchrony Judgment task as a measure of temporal binding windows. She is currently completing an MSc, where her research project investigates the role of cerebellar neuromodulation in reward behaviour.
