@@ -9,13 +9,13 @@ sections:
     content:
       title: |
         <span id="team"></span>
-        Team
+        Current team members
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal investigator
           - Current members
-          # - Alumni
+          - Alumni
       # sort_by: Params.last_name
       sort_by: Params.order
       sort_ascending: true
@@ -23,19 +23,6 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-
-  - block: people
-    content:
-      title: Alumni
-      user_groups:
-          - Alumni
-      sort_by: Params.order
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
-      css_class: alumni-section
 
   - block: markdown
     content:

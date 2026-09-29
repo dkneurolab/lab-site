@@ -244,3 +244,18 @@ video {
     max-width: 800px;
   }
 }
+
+.people-widget .col-md-12:last-of-type ~ .people-person {
+  .avatar {
+    max-width: 100px;
+  }
+
+  margin-bottom: 0.75rem;
+}
+
+@media (min-width: 576px) {
+  .people-widget .col-md-12:last-of-type ~ .people-person {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
