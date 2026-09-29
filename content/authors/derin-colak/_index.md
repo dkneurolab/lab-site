@@ -74,6 +74,6 @@ user_groups:
   - Alumni
 ---
 
-Derin received her BSc in Psychology from the University of Sussex in 2023. Her undergraduate thesis critically examined the validity of the Synchrony Judgment task as a measure of temporal binding windows. She is currently completing an MSc, where her research project investigates the role of cerebellar neuromodulation in reward behaviour.
+Derin received her BSc in Psychology from the University of Sussex in 2023. Her undergraduate thesis critically examined the validity of the Synchrony Judgment task as a measure of temporal binding windows. She is completed her MSc in the lab, where her research project investigated the role of cerebellar neuromodulation in reward behaviour.
 
 **Personal interests:** Reading fantasy, cooking, nature, listening to Turkish rock

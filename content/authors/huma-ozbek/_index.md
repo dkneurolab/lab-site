@@ -10,7 +10,7 @@ last_name: Ozbek
 superuser: False
 
 # Role/position
-role: "**Undergraduate Research Assistant**"
+role: "**Undergraduate Research Assistant (2025-26)**"
 
 # # Organizations/Affiliations
 # organizations:

@@ -74,6 +74,6 @@ user_groups:
   - Alumni
 ---
 
-Derin received her BSc in Psychology from the City University of London in 2025. She is currently completing an MSc, where her research project investigates the role of cerebellar neuromodulation in reward behaviour.
+Basmah received her BSc in Psychology from the City University of London in 2025. She completed her MSc in the lab, where her research project investigated the role of cerebellar neuromodulation in reward behaviour.
 
 <!-- **Personal interests:** Reading fantasy, cooking, nature, listening to Turkish rock -->
