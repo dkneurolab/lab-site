@@ -9,8 +9,10 @@ last_name: Ozbek
 # Is this the primary user of the site?
 superuser: False
 
+order: 4 # Undergrad
+
 # Role/position
-role: "**Undergraduate Research Assistant (2025-26)**"
+role: "**Undergrad Research Assistant (2025-26)**"
 
 # # Organizations/Affiliations
 # organizations:

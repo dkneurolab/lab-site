@@ -9,8 +9,10 @@ last_name: Ivanov
 # Is this the primary user of the site?
 superuser: False
 
+order: 4 # Phd
+
 # Role/position
-role: "**Undergraduate Research Assistant (2024)**"
+role: "**Undergrad Research Assistant (2024)**"
 
 # # Organizations/Affiliations
 # organizations:

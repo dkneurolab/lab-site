@@ -245,17 +245,36 @@ video {
   }
 }
 
-.people-widget .col-md-12:last-of-type ~ .people-person {
-  .avatar {
-    max-width: 100px;
+// .people-widget .col-md-12:first-of-type {
+//   display: none;
+// }
+
+.alumni-section {
+  .people-person {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+    text-align: left; // override any centered text from the default layout
+  }
+  .row {
+    justify-content: flex-start !important;
   }
 
-  margin-bottom: 0.75rem;
+  .people-widget .avatar {
+    max-width: 100px;
+    flex-shrink: 0; // prevents the avatar from getting squeezed by flex
+  }
+
+  .portrait-title {
+    text-align: left;
+  }
 }
 
 @media (min-width: 576px) {
-  .people-widget .col-md-12:last-of-type ~ .people-person {
-    flex: 0 0 20%;
-    max-width: 20%;
+  .alumni-section .people-person {
+    flex: 0 0 33%;
+    max-width: 33%;
+    
   }
 }

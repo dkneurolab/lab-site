@@ -9,6 +9,8 @@ last_name: Beau
 # Is this the primary user of the site?
 superuser: False
 
+order: 2
+
 # Role/position
 role: "**PhD Student collaborator (2018-24)**"
 
